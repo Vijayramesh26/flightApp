@@ -2,7 +2,7 @@
 
 FLIGHTMS is a modern, responsive flight management dashboard built using **Vue.js** and **Vuetify**. It offers a clean, user-friendly interface for airlines or aviation services to manage flights, bookings, staff, reports, and more.
 
-![FLIGHTMS UI](https://flightapp-by-vijay.web.app/)
+[FLIGHTMS UI](https://flightapp-by-vijay.web.app/)
 
 ---
 
