@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="flightSection">
         <v-row class="d-flex align-center " no-gutters>
             <v-col>
                 <v-tabs v-model="tab" background-color="transparent" color="TabTextColor" slider-color="SliderColor"
@@ -168,3 +168,8 @@ export default {
     }
 };
 </script>
+<style>
+.flightSection .v-tabs:not(.v-tabs--vertical):not(.v-tabs--right)>.v-slide-group--is-overflowing.v-tabs-bar--is-mobile:not(.v-slide-group--has-affixes) .v-slide-group__prev {
+    display: none;
+}
+</style>
