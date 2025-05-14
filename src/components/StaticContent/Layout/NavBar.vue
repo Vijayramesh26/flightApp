@@ -1,5 +1,5 @@
 <template>
-  <v-navigation-drawer left app elevation="0">
+  <v-navigation-drawer bottom left app elevation="0">
     <v-list-item>
       <v-list-item-content>
         <v-list-item-title class="text-h6 ma-4">
